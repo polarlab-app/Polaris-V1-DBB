@@ -1,0 +1,56 @@
+{
+  "bcolors": "BOOSTER COLORS",
+
+  "Mauve": "1050506804339163217",
+  "Lavender Blue": "1050506804339163217",
+  "Big Pink": "1050506804339163217",
+  "Light Aquamarine": "1050506804339163217",
+  "Algae Green": "1050506804339163217",
+  "Crocus Purple": "1050506804339163217",
+  "Rose Gold": "1050506804339163217",
+  "Light Cyan": "1050506804339163217",
+
+  "acolors": "AVP COLORS",
+
+  "Cream": "1054845254609682492",
+  "Cotton Candy": "1054845254609682492",
+  "Light Blue": "1054845254609682492",
+  "Mint Green": "1054845254609682492",
+  "Carnation Pink": "1054845254609682492",
+  "Champagne": "1054845254609682492",
+  "Light Slate Blue": "1054845254609682492",
+  "Rose": "1054845254609682492",
+
+  "mcolors": "MVP COLORS",
+
+  "Tiffany Blue": "1054845247437410363",
+  "Parchment": "1054845247437410363",
+  "Light Salmon": "1054845247437410363",
+  "Nebula Green": "1054845247437410363",
+  "Little Pink": "1054845247437410363",
+  "Cantaloupe": "1054845247437410363",
+  "Aztech Purple": "1054845247437410363",
+  "Mustard": "1054845247437410363",
+
+  "vcolors": "VIP COLORS",
+
+  "Stoplight Go Green": "1054845238960717935",
+  "Royal Blue": "1054845238960717935",
+  "Watermelon Pink": "1054845238960717935",
+  "Helitrope Purple": "1054845238960717935",
+  "Sun Yellow": "1054845238960717935",
+  "Aquamarine": "1054845238960717935",
+  "Blush Pink": "1054845238960717935",
+  "Coral": "1054845238960717935",
+
+  "pcolors": "PREMIUM COLORS",
+
+  "Kelly Green": "cpremium",
+  "Mango orange": "cpremium",
+  "Light Slate": "cpremium",
+  "Purple Mimosa": "cpremium",
+  "Crimson": "cpremium",
+  "Saffron": "cpremium",
+  "Dragon Green": "cpremium",
+  "Valentine Red": "cpremium"
+}

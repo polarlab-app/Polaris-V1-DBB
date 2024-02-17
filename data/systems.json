@@ -1,0 +1,10 @@
+{
+  "core": "true",
+  "colors": "true",
+  "moderation": "true",
+  "events": "true",
+  "utilities": "true",
+  "leveling": "true",
+  "core1": "true",
+  "core2": "true"
+}
